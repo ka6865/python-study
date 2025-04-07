@@ -7,4 +7,4 @@
 ## 🔧 실행 방법
 
 ```bash
-python number_game.py
+python3 number_game.py
